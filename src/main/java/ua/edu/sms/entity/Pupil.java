@@ -16,6 +16,8 @@ public class Pupil {
     private String name;
     //date of birth
 
+    //test comment
+
     @ManyToOne
     private Groups groups;
 
