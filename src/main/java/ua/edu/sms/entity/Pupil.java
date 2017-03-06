@@ -17,7 +17,6 @@ public class Pupil {
     //date of birth
 
     //other comment
-    protected int i;
 
 
     @ManyToOne
